@@ -21,7 +21,7 @@ Png soubor se nám otáčí po celou dobu a zastaví se až na znamení, které 
   S výsledem jsem spokojená, dokud nejde o zakomponování javascriptu do php, velice dobře si uvědomuji, že to je v podstatě ,,myš maš'', ale tomu se pravděpodobně
  nevyhnu, protože jsem stále na začátku s programováním, ale doufám, že se to bude už jen lepšit.
   
- Ještě jednou se chci vrátit k javascriptové funkci. Kdayž se png točí na začátku, před jakoukoliv volbou datumu, tak i když je dosaženo
+ Ještě jednou se chci vrátit k javascriptové funkci. Když se png točí na začátku, před jakoukoliv volbou datumu, tak i když je dosaženo
  požadovaného výsledku, tak nám console ukazuje v podstatě chyby. Takže s php jsem v podstatě spokojena s výsledky, ale u javascriptu opravdu hodně zaostávám.
  
 
